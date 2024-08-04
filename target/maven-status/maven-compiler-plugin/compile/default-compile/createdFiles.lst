@@ -1,0 +1,3 @@
+common/amazonBase.class
+runner/TestRunner.class
+pages/amazonHomePage.class
